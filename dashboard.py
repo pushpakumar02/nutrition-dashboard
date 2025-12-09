@@ -42,7 +42,7 @@ if df is not None:
         "4. Q2: Geographic Analysis", 
         "5. Q3: Demographic Analysis", 
         "6. Correlation Analysis", 
-        "7. Q&A Prep",
+        # "7. Q&A Prep",
         "8. Summary & Conclusion"
     ]
     selection = st.sidebar.radio("Go to", options)
